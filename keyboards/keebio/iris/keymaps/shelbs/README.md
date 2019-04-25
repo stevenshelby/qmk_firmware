@@ -1,4 +1,6 @@
-# nstickney's Iris Layout
+# Shelbs' Iris Layout
+
+ > Originally copied and modified version of nstickney's layout
  
  > Familiar layout for users who regularly switch between Iris and more standard layouts.
 
@@ -22,8 +24,7 @@ $ make keebio/iris/rev2:nstickney:avrdude
 	* Hold down `\\` or `-` to access the functions layer.
 	* Upper-center thumb keys are `GUI` and `MENU`.
 		* Tapping `GUI` 2, 3, or 4 times will toggle `NUMLOCK`, `CAPSLOCK`, or `SCROLLLOCK`, respectively.
-		* Tapping `MENU` 2, 3, or 4 times will toggle the `NUMP`, `SYMB`, and `SYSH` layers, respectively.
-0. Unicode-input symbols on `SYMB` and `SYSH` layers. Based (loosely) on US-International layout.
+		* Tapping `MENU` 2 times will toggle the `NUMP`
 0. `NUMP` layer has number pads on each hand. Number pad `7`-`8`-`9` align with QWERTY `7`-`8`-`9` on right hand.
 0. Function, arrow, media, and miscellaneous keys on `FCTN` layer.
 	* `F1` through `F10` on `1`-`10`. `F11` is on `GUI` and `F12` is on `MENU`.
@@ -36,11 +37,7 @@ $ make keebio/iris/rev2:nstickney:avrdude
 	* `A` toggles the RGB underglow (which changes color to indicate active layer).
 	* `Q` toggles the Unicode input through Linux, WinCompose, and MacOS.
 
-## Contribute
-
-If you are using this layout and think you've found a better way to do something, I'd appreciate an [issue](https://github.com/nstickney/qmk_firmware/issues), or better yet a [pull request](https://github.com/nstickney/qmk_firmware/pulls).
-
 
 ## License
 
-Copyright &copy; 2016-2019 @nstickney. Released under [GPL-2.0](/LICENSE).
+Copyright &copy; 2016-2019 @stevenshelby. Released under [GPL-2.0](/LICENSE).
