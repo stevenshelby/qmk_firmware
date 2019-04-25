@@ -11,7 +11,7 @@
 For instructions on building and installing this keymap, see the [docs](https://docs.qmk.fm/#/getting_started_make_guide). Below is the command for me; it may be different for you.
 
 ```sh
-$ make keebio/iris/rev2:nstickney:avrdude
+$ make keebio/iris/rev2:shelbs:avrdude
 ```
 
 ## Usage
